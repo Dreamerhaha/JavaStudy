@@ -1,4 +1,4 @@
-﻿@[toc](目录)
+@[toc](目录)
 # 基本知识
 ## Switch能否用string做参数？
 1. switch在jdk7之后可以用String作为参数；
@@ -558,4 +558,4 @@ Doulbe(没有缓存)
 		System.out.println(c);//结果为0，先执行相加再位运算
 ```
 
-
+   
